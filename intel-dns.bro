@@ -1,7 +1,5 @@
 ##! When we get an intel hit for a DNS query, store the IP answer(s) and 
 ##! generate a notice if anyone connects to one of those IPs.
-##!
-##! Copyright (c) 2014, Broala LLC.
 
 @load policy/frameworks/intel/seen/where-locations
 
