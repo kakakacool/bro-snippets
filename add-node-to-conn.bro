@@ -1,5 +1,4 @@
 ##! Add the name of the current node to conn.log
-# Copyright (c) 2014, Broala LLC.
 
 @load base/protocols/conn
 

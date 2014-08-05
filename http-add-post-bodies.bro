@@ -1,6 +1,4 @@
 ##! Add an excerpt of HTTP POST bodies into the http.log
-# Copyright (c) 2014, Broala LLC.
-
 
 @load base/protocols/http
 

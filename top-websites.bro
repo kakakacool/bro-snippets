@@ -1,5 +1,4 @@
 ##! Find and log the top websites being accessed.
-# Copyright (c) 2014, Broala LLC.
 
 @load base/utils/site
 @load base/frameworks/sumstats

@@ -1,6 +1,5 @@
 ##! Add fields to files.log that indicate the country and ASN
 ##! of the source and destination networks.
-# Copyright (c) 2014, Broala LLC.
 
 redef record Files::Info += {
 	tx_cc: string &log &optional;

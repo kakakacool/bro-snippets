@@ -1,7 +1,6 @@
 ##! API wrapper for the RapLeaf personalization API.
 # API docs can be found here: 
 # http://www.rapleaf.com/developers/personalization-api/personalization-api-documentation/#optional_params
-# Copyright (c) 2014, Broala LLC.
 
 module Rapleaf;
 
