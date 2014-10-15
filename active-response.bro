@@ -1,6 +1,5 @@
 ##! Active Response for Bro to automatically block hosts
 ##! based on notices firing.
-# Copyright (c) 2014, Broala LLC.
 
 module Broala;
 

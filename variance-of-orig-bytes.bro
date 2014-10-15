@@ -1,7 +1,6 @@
 ##! Look for low variance in the number of bytes being sent 
 ##! by connection originators.  Sometimes this can indicate
 ##! hosts behaving "strangely".
-# Copyright (c) 2014, Broala LLC.
 
 module LowVariance;
 
